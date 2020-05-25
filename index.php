@@ -55,7 +55,7 @@
 <center>
 <a href="https://manuals.info.apple.com/MANUALS/1000/MA1133/en_US/MBPRO_13inch_Mid2009_Hard_Drive_DIY.pdf"><h2>Apple.com:<br> MacBook Pro Hard Drive Replacement Guide</h2></a>
 <a href="https://support.apple.com/en-us/HT201314"><h2>About macOS Recovery</h2></a>
-<a href="https://www.amazon.com/Samsung-2-5-Inch-Internal-MZ-75E250B-AM/dp/B00OAJ412U?th=1"><h2>Amazon.com: Samsung SATA SSDs</h2>
+<a href="https://www.amazon.com/Samsung-Inch-Internal-MZ-76Q1T0B-AM/dp/B07L3D19MY/ref=psdc_1292116011_t2_B00OAJ412U"><h2>Amazon.com: Samsung SATA SSDs</h2>
 <a href="http://www.crucial.com/usa/en/apple-memory"><h2>Crucial.com: RAM Upgrades</h2></a>
 <h1>Mac App Store Direct Links</h1>
 <a href="https://itunes.apple.com/app/os-x-el-capitan/id1147835434?mt=12"><h2>10.11 OS X El Capitan</h2></a>
