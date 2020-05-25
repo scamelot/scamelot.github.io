@@ -30,8 +30,8 @@ a:hover {
 a:visited {
 	color : white;
 }
-h1 { font-size: 200%; text-shadow: 1px 2px 5px #292929; }
-h2 { font-size: 120%; }
+h1 { font-size: 200%;color:#F2CAA2; text-shadow: 1px 2px 5px #292929; }
+h2 { font-size: 120%;}
 .loginform {
 	//float: left;
 	width: 400px;

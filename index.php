@@ -1,3 +1,4 @@
+
 <html>
 <body bgcolor="#303030">
 <head>
@@ -15,7 +16,7 @@
 <center>
 <h1 style="display:block;text-align:center;">Resources</h1>
 <center><a href="http://thesafemac.com/tech-guides/"><h2>The Safe Mac - Performance and Adware Removal Guides</h2></a>
-<a href="http://pondini.org"><h2>Pondini.org - Time Machine and OS X Troubleshooting</h2></a>
+<a href="https://www.apple.com/support/systemstatus"><h2>Apple - System Status</h2></a>
 <a href="http://unixmages.com/ufbm.pdf"><h2>Unix for the Beginning Mage - Learn Terminal</h2></a>
 <a href="https://www.reddit.com/r/applehelp/wiki/index"><h2>/r/applehelp wiki</h2></a>
 <a href="http://worldbackupday.com"><h2>World Backup Day - Why You Should Back Up</h2></a>
@@ -32,6 +33,9 @@
 <a href="https://support.apple.com/en-us/HT201544"><h2>Putting iPod into Disk Mode</h2></a>
 <a href="http://www.apple.com/batteries/maximizing-performance/"><h2>Battery Performance Tips</h2></a>
 <a href="https://support.apple.com/en-us/HT202056"><h2>Extending Wireless Networks</h2></a>
+<a href="https://support.apple.com/en-us/HT203538"><h2>Reset Home Folder Permissions</h2></a>
+<a href="https://support.apple.com/en-us/ht207584"><h2>Fix a Split Fusion Drive</h2>
+  
 </section>
 <section class="loginform cf">
 <h1 style="display:block;text-align:center;">Utilities</h1>
