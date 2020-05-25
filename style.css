@@ -1,0 +1,87 @@
+html {
+	font-size: 10pt;
+}
+label {
+	display: block;
+	color: #ff9900;
+}
+.cf:before,
+.cf:after {
+    content: ""; 
+    display: table;
+}
+
+.cf:after {
+    clear: both;
+}
+.cf {
+    *zoom: 1;
+}
+:focus {
+	outline: 0;
+}
+a:link {
+	text-decoration: none;
+	color: white;
+	}
+a:hover {
+	text-decoration: underline;
+}
+a:visited {
+	color : white;
+}
+h1 { font-size: 200%; text-shadow: 1px 2px 5px #292929; }
+h2 { font-size: 120%; }
+.loginform {
+	//float: left;
+	width: 400px;
+	height: 350px;
+	vertical-align: top;
+	position: relative;
+	font-family: 'Myriad Pro', 'Myriad', helvetica, arial, sans-serif;
+	right: 0px;
+	top: 20px;
+	margin: 0px auto;
+	display: inline-block;
+	padding: 15px;
+	background-color: rgba(250,250,250,0.5);
+	border-radius: 5px;
+	color: white;
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.2), 
+    			inset 0px 1px 0px 0px rgba(250, 250, 250, 0.5);
+    border: 1px solid rgba(0, 0, 0, 0.3);
+}
+.loginform ul {
+	padding: 0;
+	margin: 0px auto;
+}
+.loginform li {
+	display: inline;
+	float: left;
+}
+.loginform input:not([type=submit]) {
+	padding: 5px;
+	margin-right: 10px;
+	margin: 5px;
+	border: 1px solid rgba(0, 0, 0, 0.3);
+	border-radius: 3px;
+	box-shadow: inset 0px 1px 3px 0px rgba(0, 0, 0, 0.1), 
+				0px 1px 0px 0px rgba(250, 250, 250, 0.5) ;
+}
+.loginform input[type=submit] {
+	border: 1px solid rgba(0, 0, 0, 0.3);
+	background: #ff9900; /* Old browsers */
+	background: -moz-linear-gradient(top,  #ff9900 0%, #cc7a00 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ff9900), color-stop(100%,#cc7a00)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #ff9900 0%,#cc7a00 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #ff9900 0%,#cc7a00 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #ff9900 0%,#cc7a00 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #ff9900 0%,#cc7a00 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff9900', endColorstr='#cc7a00',GradientType=0 ); /* IE6-9 */
+	color: #fff;
+	padding: 5px 15px;
+	margin-top: 15px;
+	margin-left: 60px;
+	border-radius: 3px;
+	text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.3);
+}
